@@ -1,1 +1,1 @@
-import fpdf
+pip install fpdf
