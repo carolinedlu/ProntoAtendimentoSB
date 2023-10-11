@@ -16,7 +16,7 @@ def save_name(nomecompleto, nomemae, numerocartao, cpf, rg, datanascimento, sexo
     while True:
         elapsed_time = time.time() - start_time
         if elapsed_time >= delay:
-            st._rerun()
+#            st._rerun()
             break
 
 
